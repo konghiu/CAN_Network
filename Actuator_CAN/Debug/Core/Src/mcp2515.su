@@ -1,0 +1,16 @@
+../Core/Src/mcp2515.c:12:6:mcp_rts	24	static
+../Core/Src/mcp2515.c:19:6:mcp_reset	24	static
+../Core/Src/mcp2515.c:27:6:mcp_bit_modify	24	static
+../Core/Src/mcp2515.c:39:6:mcp_write_byte	24	static
+../Core/Src/mcp2515.c:46:6:mcp_read_byte	32	static
+../Core/Src/mcp2515.c:54:6:mcp_read_buffer	32	static
+../Core/Src/mcp2515.c:63:6:mcp_load_buffer	32	static
+../Core/Src/mcp2515.c:73:6:mcp_activate_rx	16	static
+../Core/Src/mcp2515.c:96:6:mcp_activate_tx	16	static
+../Core/Src/mcp2515.c:107:6:mcp_set_mask_standard	16	static
+../Core/Src/mcp2515.c:115:6:mcp_set_mask_extend	16	static
+../Core/Src/mcp2515.c:125:6:mcp_set_filter_standard	16	static
+../Core/Src/mcp2515.c:135:6:mcp_set_filter_extend	16	static
+../Core/Src/mcp2515.c:148:6:mcp_set_ID_standard	16	static
+../Core/Src/mcp2515.c:155:6:mcp_set_ID_extend	16	static
+../Core/Src/mcp2515.c:165:6:mcp_send	24	static

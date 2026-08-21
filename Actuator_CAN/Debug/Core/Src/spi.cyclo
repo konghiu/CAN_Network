@@ -1,0 +1,4 @@
+../Core/Src/spi.c:12:9:spi_transmit	8
+../Core/Src/spi.c:42:9:spi_receive	6
+../Core/Src/spi.c:61:6:spi_select	1
+../Core/Src/spi.c:65:6:spi_unselect	1
