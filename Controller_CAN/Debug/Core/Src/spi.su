@@ -1,0 +1,4 @@
+../Core/Src/spi.c:12:9:spi_transmit	32	static
+../Core/Src/spi.c:42:9:spi_receive	32	static
+../Core/Src/spi.c:61:6:spi_select	16	static
+../Core/Src/spi.c:65:6:spi_unselect	16	static

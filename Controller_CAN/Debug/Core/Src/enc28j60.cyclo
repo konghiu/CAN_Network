@@ -1,0 +1,10 @@
+../Core/Src/enc28j60.c:12:6:enc_write_byte	1
+../Core/Src/enc28j60.c:19:6:enc_read_byte	1
+../Core/Src/enc28j60.c:27:6:enc_write_buffer	1
+../Core/Src/enc28j60.c:35:6:enc_write_phy	1
+../Core/Src/enc28j60.c:41:6:enc_set_bits	1
+../Core/Src/enc28j60.c:48:6:enc_clear_bits	1
+../Core/Src/enc28j60.c:55:6:enc_read_buffer	1
+../Core/Src/enc28j60.c:64:6:enc_reset	1
+../Core/Src/enc28j60.c:71:6:enc_init	1
+../Core/Src/enc28j60.c:119:6:enc_transmit	1
